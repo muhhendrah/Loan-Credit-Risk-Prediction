@@ -8,7 +8,7 @@ LendingClub is a financial services company headquartered in San Francisco, Cali
 
 ## Project Background
 ---
-Credit risk is the possibility of a loss resulting from the borrower’s failure to repay a loan or meet contractual obligations. When a credit company receives a loan application, the company has to make a decision whether the company will accept or decline based on the applicant’s profile. For now, `Lending Club has a `12,29%` bad loan` from 2007-2016. We have to increase Lending Club amount financed and decrease Lending Club bad loan status accepted by :
+Credit risk is the possibility of a loss resulting from the borrower’s failure to repay a loan or meet contractual obligations. When a credit company receives a loan application, the company has to make a decision whether the company will accept or decline based on the applicant’s profile. For now, `Lending Club has a 12,29% bad loan` from 2007-2016. We have to increase Lending Club amount financed and decrease Lending Club bad loan status accepted by :
 - Analyze client’s historical credit applications data to understanding the borrower’s behaviors.
 - Develop predictive model to solve credit default issues.
 
