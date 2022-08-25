@@ -21,26 +21,31 @@ We have some interesting insights from the EDA, there are :
 *Key Takeaway*
 - Lending Club has a 12,29% bad loan from 2007-2016
 <br><br>
+
 ![Borrowers Employmeny Title](https://github.com/muhhendrah/Loan-Credit-Risk-Prediction/blob/main/images/Employment%20Title.png)
 
 *Key Takeaway*
 - Most borrowers employment title are teacher, manager, and registered nurse.
 <br><br>
+
 ![Loan Purpose](https://github.com/muhhendrah/Loan-Credit-Risk-Prediction/blob/main/images/Credit%20Purpose.png)
 
 *Key Takeaway*
 - Most borrowers apply for loans for the purpose of debt consolidation and credit card.
 <br><br>
+
 ![Relevant Credit Scorecard](https://github.com/muhhendrah/Loan-Credit-Risk-Prediction/blob/main/images/Relevant%20Credit%20Scorecard.png)
 
 *Key Takeaway*
 - Lending Club's credit scorecard still relevant, because it seems to have a natural order based on the loan status probability. Grade A has the highest probability to have a good loan status. Grade G has the lowest probability to have a good loan status.
 <br><br>
+
 ![Loan Date](https://github.com/muhhendrah/Loan-Credit-Risk-Prediction/blob/main/images/Loan%20Date%20Bad%20Status.png)
 
 *Key Takeaway*
 - The earlier the loan date is, the higher the probability of a borrower to have a bad loan status.
 <br><br>
+
 ![Interest Rate](https://github.com/muhhendrah/Loan-Credit-Risk-Prediction/blob/main/images/Interest%20Rate%20Bad%20Status.png)
 
 *Key Takeaway*
