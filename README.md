@@ -19,7 +19,7 @@ We have some interesting insights from the EDA, there are :
 ![Bad Loan Rate](https://github.com/muhhendrah/Loan-Credit-Risk-Prediction/blob/main/images/Bad%20Loan%20Rate.png)
 
 *Key Takeaway*
-- Lending Club has a 12,29% bad loan from 2007-2016
+- Lending Club has a 12,29% bad loan rate from 2007-2016.
 <br><br>
 
 ![Borrowers Employmeny Title](https://github.com/muhhendrah/Loan-Credit-Risk-Prediction/blob/main/images/Employment%20Title.png)
@@ -31,7 +31,7 @@ We have some interesting insights from the EDA, there are :
 ![Loan Purpose](https://github.com/muhhendrah/Loan-Credit-Risk-Prediction/blob/main/images/Credit%20Purpose.png)
 
 *Key Takeaway*
-- Most borrowers apply for loans for the purpose of debt consolidation and credit card.
+- Most borrowers apply loans for the purpose of debt consolidation and credit card.
 <br><br>
 
 ![Relevant Credit Scorecard](https://github.com/muhhendrah/Loan-Credit-Risk-Prediction/blob/main/images/Relevant%20Credit%20Scorecard.png)
@@ -68,7 +68,7 @@ Random Forest Model are tested with AUC-ROC and Kolmogorov-Smirnov as Evaluation
 ---
 
 Recommendations:
-1. Use the predictive model to make a decision either accept or decline the borrower’s credit application.
+1. Use the predictive model to make a decision either accept or decline the borrower’s credit application can decrease Lending Club bad loan status accepted up to 7.73%.
 2. Evaluate and do some adjustment to the interest rate. Maybe we can adjust the interest rate based on borrowers’ default risk probability.
 3. We should pay more attention to borrowers' loan dates because they tend to be late in their last payments.
 4. Use segmented marketing for potential new borrowers to increase finance amount based on their needs and occupations.
