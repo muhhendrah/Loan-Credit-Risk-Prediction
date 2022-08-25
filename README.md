@@ -17,7 +17,7 @@ Credit risk is the possibility of a loss resulting from the borrower’s failure
 We have some interesting insights from the EDA, there are :
 - Most borrowers employment title are teacher, manager, and registered nurse.
 - Most borrowers apply for loans for the purpose of debt consolidation and credit card.
-- The earlier the issue date is, the higher the probability of a borrower to have a bad loan status.
+- The earlier the loan date is, the higher the probability of a borrower to have a bad loan status.
 - Borrowers with high-interest rates have a higher probability to have a bad loan status than those with a low-interest rate.
 
 ## Data Preprocessing
